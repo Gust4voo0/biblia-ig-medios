@@ -118,6 +118,16 @@
   "texto": ""
  },
  {
+  "id": "s1-16",
+  "fecha": "2026-11-16",
+  "hora": "19:00",
+  "tipo": "reel",
+  "archivos": [
+   "reel-test-hoy-v1.mp4"
+  ],
+  "texto": "¿Cuántas flexiones te salen hoy? 💪\n\nHacé el test: flexiones, sentadillas y segundos de plancha. Anotalo y dejá tu número en los comentarios 👇\n\nEn 21 días lo repetís y comparás. El plan, en el link de la bio.\n\n#calistenia #entrenamientoencasa"
+ },
+ {
   "id": "s1-10",
   "fecha": "2026-11-17",
   "hora": "19:00",
@@ -160,5 +170,15 @@
    "historia-consejo-07-v1.jpg"
   ],
   "texto": ""
+ },
+ {
+  "id": "s1-17",
+  "fecha": "2026-11-18",
+  "hora": "19:00",
+  "tipo": "reel",
+  "archivos": [
+   "reel-ultimo-partido-v1.mp4"
+  ],
+  "texto": "¿Cuándo fue tu último partido? ⚽\n\nNo es la edad: te falta un plan. Cada ejercicio tiene 3 niveles y se arranca por el más fácil.\n\nEl plan de 21 días, en el link de la bio.\n\n#calistenia #entrenamientoencasa"
  }
 ]
