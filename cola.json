@@ -54,6 +54,22 @@
   "texto": "«Este lunes arranco»… y el lunes nunca llega 🙃\n\nNo es la edad: te falta un plan. 21 días, desde 25 minutos, en casa y sin gimnasio.\n\nEl plan, en el link de la bio.\n\n#calistenia #entrenamientoencasa"
  },
  {
+  "id": "org-test",
+  "fecha": "2026-11-14",
+  "hora": "19:00",
+  "tipo": "carrusel",
+  "archivos": [
+   "org-test-01-v1.jpg",
+   "org-test-02-v1.jpg",
+   "org-test-03-v1.jpg",
+   "org-test-04-v1.jpg",
+   "org-test-05-v1.jpg",
+   "org-test-06-v1.jpg",
+   "org-test-07-v1.jpg"
+  ],
+  "texto": "¿Cuántas de estas 5 podés hacer hoy? 👇\n\nProbalas en casa, sin nada, y contá cuántas te salen. Comentá tu puntaje (del 0 al 5) y mandáselo a alguien para que se anime.\n\nSi sacaste menos de 3, no pasa nada: es el mejor momento para arrancar. Seguí la cuenta: cada día un ejercicio para volver a entrenar en casa.\n\n#calistenia #entrenamientoencasa #ejerciciosencasa #volveraentrenar"
+ },
+ {
   "id": "s1-05",
   "fecha": "2026-11-14",
   "hora": "19:00",
